@@ -419,6 +419,12 @@ h2 b {
 .swiper-free-mode > .swiper-wrapper {
     transition-timing-function: linear;
 }
+.swiper-wrapper{
+
+    margin:  0 auto;
+    display: flex;
+    justify-content: center;
+}
 .online {
     width: 150px;
     font-size: 13px;
